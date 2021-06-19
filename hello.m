@@ -11,3 +11,7 @@ asd
 
 
 name: fushengjun
+
+age: 18
+
+sex: 男
