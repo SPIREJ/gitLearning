@@ -15,3 +15,8 @@ name: fushengjun
 age: 18
 
 sex: 男
+
+
+
+
+say: 我是你爹 你是我儿子 我草泥马
